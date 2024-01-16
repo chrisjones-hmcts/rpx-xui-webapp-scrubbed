@@ -2,7 +2,7 @@ module.exports = {
   "user": {
     "idam": {
       "id": "41a90c39-d756-4eba-8e85-5b5bf56b31f5",
-      "email": "lukesuperuserxui@mailnesia.com",
+      "email": "lukesuperuserxui_new@mailnesia.com",
       "forename": "Luke",
       "surname": "Wilson",
       "roles": [
